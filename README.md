@@ -2,7 +2,7 @@
 
 I'm an experienced Full-Stack Engineer living in Berlin, and have worked in many companies (big and small) also in leading roles. Skilled in **JavaScript**, **React**, **Node.js**, **Testing (Jest, Cypress)**, **Front-end Development** and **Clean Code**. Strong engineering professional with a Bachelor's degree focused in Development and Systems Analysis. 
 
-*(Fun fact: I coded my first website when I was a 16 years old. It was about Dragon Ball Z 🙈)*
+*(Fun fact: I coded my first website when I was a 14 years old. It was about Dragon Ball Z 🙈)*
 
 [![Linkedin: vitormv](https://img.shields.io/badge/-vitormv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/vitormv/)](https://www.linkedin.com/in/vitormv/)
 ![](https://visitor-badge.glitch.me/badge?page_id=vitormv.vitormv)
