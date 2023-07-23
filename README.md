@@ -12,14 +12,14 @@ I'm an experienced Full-Stack Engineer living in Berlin, and have worked in many
 ```javascript
 const vitormv = {
   pronouns: 'he' || 'him',
-  code: ['Javascript', 'PHP', 'HTML', '(S)CSS'],
+  code: ['Typescript', 'Bash', 'PHP', 'HTML', '(S)CSS'],
   askMeAbout: ['web dev', 'tech', 'astrophysics', 'videogames', 'coffee'],
   technologies: {
     frontend: {
       frameworks: ['Next.js', 'Gatsby'],
-      libs: ['React', 'Redux', 'Redux-saga', 'Reselect', 'webpack'],    
+      libs: ['React', 'single-spa', 'Redux', 'Redux-saga', 'Reselect', 'webpack'],    
       css: ['Bulma', 'Tailwind', 'styled-components'],
-      tests: ['Jest', 'Testing-library', 'Enzyme', 'Cypress', 'Puppeteer'],
+      tests: ['Jest', 'testing-library', 'Enzyme', 'Cypress', 'Puppeteer'],
     },
     backend: {
       languages: ['typescript', 'js', 'php'],
